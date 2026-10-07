@@ -1,0 +1,5 @@
+2026-10-07T05:07:50.923855+00:00 | INFO | sample | Packaged source-grounded sample output
+2026-10-07T05:07:50.923855+00:00 | INFO | sample | Books to Scrape sample: 2 pages, 40 records
+2026-10-07T05:07:50.923855+00:00 | INFO | sample | Quotes to Scrape sample: 2 pages, 20 records
+2026-10-07T05:07:50.923855+00:00 | INFO | sample | Cleaning/validation/deduplication: 60 final records, 0 rejected, 0 duplicates
+2026-10-07T05:07:50.923855+00:00 | WARNING | sample | Live end-to-end network execution was not available in the packaging environment; run `python main.py` in a network-enabled environment for the full scrape.

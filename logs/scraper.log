@@ -1,0 +1,5 @@
+2026-10-07 10:46:15,745 | INFO | pipeline | Starting source: Books to Scrape
+2026-10-07 10:57:13,370 | INFO | pipeline | Finished source: Books to Scrape | records=1000
+2026-10-07 10:57:13,370 | INFO | pipeline | Starting source: Quotes to Scrape
+2026-10-07 10:58:09,150 | INFO | pipeline | Finished source: Quotes to Scrape | records=100
+2026-10-07 10:58:09,271 | INFO | pipeline | Pipeline complete | collected=1100 valid=1100 rejected=0 duplicates=0 final=1100

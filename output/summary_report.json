@@ -1,0 +1,28 @@
+{
+  "execution_status": "completed",
+  "scraped_at": "2026-10-07T05:16:15.745332+00:00",
+  "execution_time_seconds": 713.656,
+  "sources": {
+    "Books to Scrape": {
+      "raw_records": 1000,
+      "pages_requested": 50,
+      "pages_failed": 0,
+      "detail_pages_failed": 0
+    },
+    "Quotes to Scrape": {
+      "raw_records": 100,
+      "pages_requested": 10,
+      "pages_failed": 0,
+      "author_pages_failed": 0
+    }
+  },
+  "total_records_collected": 1100,
+  "total_records_after_cleaning": 1100,
+  "records_rejected_during_validation": 0,
+  "duplicate_records_detected": 0,
+  "duplicate_records_removed": 0,
+  "final_record_count": 1100,
+  "validation_rejections": [],
+  "log_file": "logs\\scraper.log",
+  "output_file": "output\\final_dataset.csv"
+}
